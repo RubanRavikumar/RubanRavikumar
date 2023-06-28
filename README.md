@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 * git add README.md
 * git commit -m "first commit"
 * git branch -M main
-* git remote add origin https://github.com/RubanRavikumar/ForGitCommands.git
+* git remote add origin {Repo path}
 * git push -u origin main 
 -->
