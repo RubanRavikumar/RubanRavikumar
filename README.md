@@ -16,3 +16,10 @@ You can click the Preview link to take a look at your changes.
 * git remote add origin {Repo path}
 * git push -u origin main 
 -->
+
+<!-- For Creat Reactproject
+  1.Choose folder to start the project and  Open command prompt
+  2.Installing Node Package Manager: npm install -g npm 
+  3.Open command prompt in that path and execute npx create-react-app app-name
+-->
+
