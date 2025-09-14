@@ -1,5 +1,5 @@
 <div>
-   <div style=display:"flex"> 
+   <div> 
      <span> 👋 Hi there, I’m @ <h1> RubanRavikumar </h1> </span> 
    </div>
    <div> 
