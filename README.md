@@ -5,10 +5,9 @@
     </a>  
    </div>
    <hr>
-   <div> 
-     📫 How to reach me ==> <span> rruban006@gmail.com </span>
-   </div>
-   <div>
-      🔭 Focusing on FullStack (Frontend + Backend).😎
-   </div>
+   // other
+   <ul>
+      <li> 📫 How to reach me ==> <span> rruban006@gmail.com </span></li>
+      <li> 🔭 Focusing on FullStack (Frontend + Backend).😎</li>
+   </ul>
 </div>
