@@ -6,7 +6,7 @@
    </div>
    <hr>
    <ul>
-      <li> 📫 How to reach me ==> <span> rruban006@gmail.com </span></li>
+      <li> 📫 How to reach me ==> <span  style="color:blue"> rruban006@gmail.com </span></li>
       <li> 🔭 Focusing on FullStack (Frontend + Backend).😎</li>
    </ul>
 </div>
