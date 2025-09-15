@@ -7,7 +7,7 @@
    <hr>
    <ul>
        <li>
-          📫 How to reach me ==>📫 How to reach me ==> rruban006@gmail.com
+          📫 How to reach me ==> rruban006@gmail.com
        </li>
       <li> 🔭 Focusing on FullStack (Frontend + Backend).😎</li>
    </ul>
