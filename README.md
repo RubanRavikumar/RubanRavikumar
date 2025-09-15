@@ -6,7 +6,11 @@
    </div>
    <hr>
    <ul>
-      <li> 📫 How to reach me ==> <span  style="color:#1E90FF"> rruban006@gmail.com </span></li>
+       <li>
+           ![Email](https://img.shields.io/badge/Email-rruban006%40gmail.com-1E90FF?style=flat-square&logo=gmail&logoColor=white)
+           ![Blue Text](https://dummyimage.com/200x40/1E90FF/ffffff&text=rruban006@gmail.com)
+          📫 How to reach me ==> **rruban006@gmail.com**
+       </li>
       <li> 🔭 Focusing on FullStack (Frontend + Backend).😎</li>
    </ul>
 </div>
